@@ -72,3 +72,301 @@
 2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 1.0 to string '1.0'
 2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 24.75 to string '24.75'
 2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 1.2222222222222223 to string '1.2222222222222223'
+2024-11-30 12:21:10 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:21:10 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:21:10 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 12:21:10 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 12:21:10 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Converted result 10.0 to string '10.0'
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Converted result 1.0 to string '1.0'
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Converted result 24.75 to string '24.75'
+2024-11-30 12:22:05 [main] INFO  org.web.Calculator - Converted result 1.2222222222222223 to string '1.2222222222222223'
+2024-11-30 12:25:25 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:25:25 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:25:25 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:25:25 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 12:31:46 [main] INFO  org.web.Calculator - Adding 3.2 and 7.12 = 10.32
+2024-11-30 12:31:46 [main] INFO  org.web.Calculator - Subtracting 3.2 and 7.12 = -3.92
+2024-11-30 12:31:46 [main] INFO  org.web.Calculator - Multiplying 3.2 and 7.12 = 22.784000000000002
+2024-11-30 12:31:46 [main] INFO  org.web.Calculator - Dividing 3.2 by 7.12 = 0.44943820224719105
+2024-11-30 12:34:06 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:38:44 [main] INFO  org.web.Calculator - Multiplying 5.5 and 3.2 = 17.6
+2024-11-30 12:38:58 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:38:58 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:38:58 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 12:38:58 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 12:38:58 [main] INFO  org.web.Calculator - Multiplying 5.5 and 3.2 = 17.6
+2024-11-30 12:41:29 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:42:26 [main] INFO  org.web.Calculator - Adding 3.2 and 7.12 = 10.32
+2024-11-30 12:42:26 [main] INFO  org.web.Calculator - Subtracting 3.2 and 7.12 = -3.92
+2024-11-30 12:42:26 [main] INFO  org.web.Calculator - Multiplying 3.2 and 7.12 = 22.784000000000002
+2024-11-30 12:42:26 [main] INFO  org.web.Calculator - Dividing 3.2 by 7.12 = 0.44943820224719105
+2024-11-30 12:43:44 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:43:44 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:43:44 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:43:44 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 12:54:05 [main] INFO  org.web.Calculator - Recalculated values: x = 5.5, y = 4.5
+2024-11-30 12:54:05 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 12:54:05 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 12:54:05 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 12:54:05 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.2222222222222223
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 1.2222222222222223
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Recalculate called with no changes: x = 5.5, y = 4.5
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Set x to 6.5
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Set x to 8.5
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Recalculated values: x = 6.5, y = 8.5
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Adding 6.5 and 8.5 = 15.0
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Subtracting 6.5 and 8.5 = 0.7647058823529411
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Multiplying 6.5 and 8.5 = 0.7647058823529411
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Dividing 6.5 by 8.5 = 0.7647058823529411
+2024-11-30 13:22:08 [main] INFO  org.web.Calculator - Recalculated values to defaults: x = 0.0, y = 0.0
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Recalculate called with no changes: x = 5.5, y = 4.5
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Set x to 6.5
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Set x to 8.5
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Recalculated values: x = 6.5, y = 8.5
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Adding 6.5 and 8.5 = 15.0
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Subtracting 6.5 and 8.5 = -2.0
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Multiplying 6.5 and 8.5 = 55.25
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Dividing 6.5 by 8.5 = 0.7647058823529411
+2024-11-30 13:23:56 [main] INFO  org.web.Calculator - Recalculated values to defaults: x = 0.0, y = 0.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Subtracting 5.5 and 4.5 = 1.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Multiplying 5.5 and 4.5 = 24.75
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Dividing 5.5 by 4.5 = 1.2222222222222223
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Recalculate called with no changes: x = 5.5, y = 4.5
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Set x to 6.5
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Set x to 8.5
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Recalculated values: x = 6.5, y = 8.5
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Adding 6.5 and 8.5 = 15.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Addition result: 15.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Subtracting 6.5 and 8.5 = -2.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Subtraction result: -2.0
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Multiplying 6.5 and 8.5 = 55.25
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Multiplication result: 55.25
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Dividing 6.5 by 8.5 = 0.7647058823529411
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Division result: 0.7647058823529411
+2024-11-30 13:26:31 [main] INFO  org.web.Calculator - Recalculated values to defaults: x = 0.0, y = 0.0
+2024-11-30 13:42:53 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:42:53 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:42:53 [main] INFO  org.web.Calculator - Values are 5.5, 0.0
+2024-11-30 13:42:53 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:42:53 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:46:07 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:46:07 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:46:07 [main] INFO  org.web.Calculator - Values are 5.5, 0.0
+2024-11-30 13:46:07 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:46:07 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Recalculating operations with current values: x = 5.5, y = 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Addition result: 10.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Subtraction result: 1.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Multiplication result: 24.75
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Division result: 1.2222222222222223
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 0.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Set x to 6.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Set x to 8.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Addition result: 15.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Subtraction result: -2.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Multiplication result: 55.25
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Division result: 0.7647058823529411
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Values are 5.5, 4.5
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - Recalculated values to defaults: x = 0.0, y = 0.0
+2024-11-30 13:49:29 [main] INFO  org.web.Calculator - No change provided.
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Recalculating with current values: x = 5.5, y = 4.5
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Results: Addition = 10.0, Subtraction = 1.0, Multiplication = 24.75, Division = 1.2222222222222223
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Updated x to 6.5
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Updated y to 8.5
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Updated x to 0.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Updated y to 0.0
+2024-11-30 13:52:27 [main] INFO  org.web.Calculator - Values reset to defaults: x = 0.0, y = 0.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Recalculating with current values: x = 5.5, y = 4.5
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Results: Addition = 10.0, Subtraction = 1.0, Multiplication = 24.75, Division = 1.2222222222222223
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Updated x to 6.5
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Updated y to 8.5
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Updated x to 0.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Updated y to 0.0
+2024-11-30 13:52:51 [main] INFO  org.web.Calculator - Values reset to defaults: x = 0.0, y = 0.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Recalculating with current values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Results: Addition = 10.0, Subtraction = 1.0, Multiplication = 24.75, Division = 1.2222222222222223
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 0.0
+2024-11-30 13:53:38 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Updated x to 6.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Updated y to 8.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Updated x to 0.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Updated y to 0.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Values reset to defaults: x = 0.0, y = 0.0
+2024-11-30 13:53:38 [main] INFO  org.web.Calculator - Calculator initialized with default values: x = 0.0, y = 0.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Updated x to 6.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Updated y to 8.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 0.0
+2024-11-30 13:54:55 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Recalculating with current values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Results: Addition = 10.0, Subtraction = 1.0, Multiplication = 24.75, Division = 1.2222222222222223
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with default values: x = 0.0, y = 0.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Updated x to 0.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Updated y to 0.0
+2024-11-30 13:54:55 [main] INFO  org.web.Calculator - Values reset to defaults: x = 0.0, y = 0.0
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 0.0
+2024-11-30 13:56:52 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Updated x to 6.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Updated y to 8.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Values changed. Recalculating operations...
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 13:56:52 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 0.0
+2024-11-30 14:00:55 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Updated values: x = 6.5, y = 8.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Recalculating with current values: x = 6.5, y = 8.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing multiplication: 6.5 * 8.5 = 55.25
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing division: 6.5 / 8.5 = 0.7647058823529411
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Results: Addition = 15.0, Subtraction = -2.0, Multiplication = 55.25, Division = 0.7647058823529411
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing addition: 6.5 + 8.5 = 15.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Performing subtraction: 6.5 - 8.5 = -2.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Updated values: x = 0.0, y = 0.0
+2024-11-30 14:00:55 [main] INFO  org.web.Calculator - Values reset to defaults.
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:02:20 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Performing multiplication: 5.5 * 4.5 = 24.75
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Performing addition: 5.5 + 4.5 = 10.0
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Performing division: 5.5 / 4.5 = 1.2222222222222223
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Calculator initialized with values: x = 5.5, y = 4.5
+2024-11-30 14:04:45 [main] INFO  org.web.Calculator - Performing subtraction: 5.5 - 4.5 = 1.0

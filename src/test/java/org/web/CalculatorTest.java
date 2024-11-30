@@ -1,86 +1,43 @@
 package org.web;
 
 import org.junit.jupiter.api.Test;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CalculatorTest {
-    private static final Logger logger = LogManager.getLogger(CalculatorTest.class);
 
-    @Test
-    public void testAdd() {
-        logger.info("Starting testAdd()...");
-        double givenX = 5.5;
-        double givenY = 3.5;
-        Calculator calculator = new Calculator(givenX, givenY);
-//        double givenX = 5.5;
-//        double givenY = 3.5;
-        double expectedResult = 10.0;
-
-//        double givenResult = calculator.add(givenX, givenY);
-        double givenResult = calculator.add();
-        logger.info("Expected result: {}, Given result: {}", expectedResult, givenResult);
-        // Assert that the result matches the expected value
-        assertEquals(expectedResult, givenResult, "The addition result is incorrect.");
-        logger.info("testAdd() completed successfully.");
+    // Helper method to verify all operations
+    private void verifyCalculatorOperations(Calculator calculator, double expectedAdd, double expectedSubtract,
+                                            double expectedMultiply, String expectedDivide) {
+        assertEquals(expectedAdd, calculator.add(), 1e-9, "Addition result is incorrect.");
+        assertEquals(expectedSubtract, calculator.subtract(), 1e-9, "Subtraction result is incorrect.");
+        assertEquals(expectedMultiply, calculator.multiply(), 1e-9, "Multiplication result is incorrect.");
+        assertEquals(expectedDivide, calculator.safeDivision(), "Division result is incorrect.");
     }
 
     @Test
-    public void testSub() {
-        logger.info("Starting testSub()...");
-        double givenX = 5.5;
-        double givenY = 4.5;
-        Calculator calculator = new Calculator(givenX, givenY);
-//        double givenX = 5.5;
-//        double givenY = 4.5;
-        double expectedResult = 1.0;
-
-//        double givenResult = calculator.sub(givenX, givenY);
-        double givenResult = calculator.subtract();
-        logger.info("Expected result: {}, Given result: {}", expectedResult, givenResult);
-
-        // Assert that the result matches the expected value
-        assertEquals(expectedResult, givenResult, "The subtraction result is incorrect.");
-        logger.info("testSub() completed successfully.");
+    public void testBasicOperations() {
+        Calculator calculator = new Calculator(5.5, 4.5);
+        verifyCalculatorOperations(calculator, 10.0, 1.0, 24.75, "1.2222222222222223");
     }
 
     @Test
-    public void testMul() {
-        logger.info("Starting testMul()...");
-        double givenX = 5.5;
-        double givenY = 4.5;
-        Calculator calculator = new Calculator(givenX, givenY);
-//        double givenX = 5.5;
-//        double givenY = 4.5;
-        double expectedResult = 10.0;
-
-//        double givenResult = calculator.muliply(givenX, givenY);
-
-       double givenResult = calculator.multiply();
-        logger.info("Expected result: {}, Given result: {}", expectedResult, givenResult);
-
-        assertEquals(expectedResult, givenResult, "The multiplication result is incorrect.");
-        logger.info("testMul() completed successfully.");
+    public void testDivisionByZeroHandling() {
+        Calculator calculator = new Calculator(3.5, 0.0);
+        verifyCalculatorOperations(calculator, 3.5, 3.5, 0.0, "Error: Division by zero");
     }
 
     @Test
-    public void testDiv() {
-        logger.info("Starting testDiv()...");
-        double givenX = 5.5;
-        double givenY = 0.0;
-        Calculator calculator = new Calculator(givenX, givenY);
-//        double givenX = 5.5;
-//        double givenY = 0.0;
-        double expectedResult = 10.0;
-        try {
-//            double givenResult = calculator.division(givenX, givenY);
-            double givenResult = calculator.division();
-            logger.info("Expected result: {}, Given result: {}", expectedResult, givenResult);
-        } catch (ArithmeticException e) {
-            assertEquals("Cannot divide by zero.", e.getMessage(), "Division by zero exception message is incorrect.");
-            logger.error("Arithmetic Exception occurred: {}", e.getMessage());
-        }
+    public void testIterateOverCalculators() {
+        Calculator[] calculators = {
+                new Calculator(5.5, 4.5),
+                new Calculator(3.5, 0.0),
+                new Calculator(7.0, 3.0)
+        };
+
+        // Validate all calculators
+        verifyCalculatorOperations(calculators[0], 10.0, 1.0, 24.75, "1.2222222222222223");
+        verifyCalculatorOperations(calculators[1], 3.5, 3.5, 0.0, "Error: Division by zero");
+        verifyCalculatorOperations(calculators[2], 10.0, 4.0, 21.0, "2.3333333333333335");
     }
 }
