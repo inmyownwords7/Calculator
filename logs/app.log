@@ -1,0 +1,74 @@
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Starting testAdd()...
+2024-11-30 11:04:52 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 10.0
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - testAdd() completed successfully.
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Starting testDiv()...
+2024-11-30 11:04:52 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 11:04:52 [main] ERROR org.web.CalculatorTest - Arithmetic Exception occurred: Cannot divide by zero.
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Starting testMul()...
+2024-11-30 11:04:52 [main] INFO  org.web.Calculator - Multiply 5.5 and 4.5 = 24.75
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 24.75
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Starting testSub()...
+2024-11-30 11:04:52 [main] INFO  org.web.Calculator - Subtract 5.5 and 4.5 = 1.0
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - Expected result: 1.0, Given result: 1.0
+2024-11-30 11:04:52 [main] INFO  org.web.CalculatorTest - testSub() completed successfully.
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Starting testAdd()...
+2024-11-30 11:05:26 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 10.0
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - testAdd() completed successfully.
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Starting testDiv()...
+2024-11-30 11:05:26 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 11:05:26 [main] ERROR org.web.CalculatorTest - Arithmetic Exception occurred: Cannot divide by zero.
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Starting testMul()...
+2024-11-30 11:05:26 [main] INFO  org.web.Calculator - Multiply 5.5 and 4.5 = 24.75
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 24.75
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Starting testSub()...
+2024-11-30 11:05:26 [main] INFO  org.web.Calculator - Subtract 5.5 and 4.5 = 1.0
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - Expected result: 1.0, Given result: 1.0
+2024-11-30 11:05:26 [main] INFO  org.web.CalculatorTest - testSub() completed successfully.
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Starting testAdd()...
+2024-11-30 11:05:44 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 10.0
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - testAdd() completed successfully.
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Starting testDiv()...
+2024-11-30 11:05:44 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 11:05:44 [main] ERROR org.web.CalculatorTest - Arithmetic Exception occurred: Cannot divide by zero.
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Starting testMul()...
+2024-11-30 11:05:44 [main] INFO  org.web.Calculator - Multiply 5.5 and 4.5 = 24.75
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 24.75
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Starting testSub()...
+2024-11-30 11:05:44 [main] INFO  org.web.Calculator - Subtract 5.5 and 4.5 = 1.0
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - Expected result: 1.0, Given result: 1.0
+2024-11-30 11:05:44 [main] INFO  org.web.CalculatorTest - testSub() completed successfully.
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Starting testAdd()...
+2024-11-30 11:06:02 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 10.0
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - testAdd() completed successfully.
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Starting testDiv()...
+2024-11-30 11:06:02 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 11:06:02 [main] ERROR org.web.CalculatorTest - Arithmetic Exception occurred: Cannot divide by zero.
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Starting testMul()...
+2024-11-30 11:06:02 [main] INFO  org.web.Calculator - Multiply 5.5 and 4.5 = 24.75
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 24.75
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Starting testSub()...
+2024-11-30 11:06:02 [main] INFO  org.web.Calculator - Subtract 5.5 and 4.5 = 1.0
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - Expected result: 1.0, Given result: 1.0
+2024-11-30 11:06:02 [main] INFO  org.web.CalculatorTest - testSub() completed successfully.
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Starting testAdd()...
+2024-11-30 11:09:53 [main] INFO  org.web.Calculator - Adding 5.5 and 4.5 = 10.0
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 10.0
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - testAdd() completed successfully.
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Starting testDiv()...
+2024-11-30 11:09:53 [main] ERROR org.web.Calculator - Division by zero attempted with numerator 5.5
+2024-11-30 11:09:53 [main] ERROR org.web.CalculatorTest - Arithmetic Exception occurred: Cannot divide by zero.
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Starting testMul()...
+2024-11-30 11:09:53 [main] INFO  org.web.Calculator - Multiply 5.5 and 4.5 = 24.75
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Expected result: 10.0, Given result: 24.75
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Starting testSub()...
+2024-11-30 11:09:53 [main] INFO  org.web.Calculator - Subtract 5.5 and 4.5 = 1.0
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - Expected result: 1.0, Given result: 1.0
+2024-11-30 11:09:53 [main] INFO  org.web.CalculatorTest - testSub() completed successfully.
+2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 10.0 to string '10.0'
+2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 1.0 to string '1.0'
+2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 24.75 to string '24.75'
+2024-11-30 11:41:08 [main] INFO  org.web.Calculator - Converted result 1.2222222222222223 to string '1.2222222222222223'
